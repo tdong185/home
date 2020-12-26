@@ -10,4 +10,4 @@
 
 [Data Structures]
 
-[Travel]
+[Travel](https://tdong185.github.io/home/travel)
