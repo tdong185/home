@@ -3,4 +3,5 @@
 #### Hong Kong
 
 #### Post Graduation
-<img src="travel/IMG_9728.PNG">
+
+<img src="home/travel/IMG_9728.PNG" alt="hi" class="inline"/>
