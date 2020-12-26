@@ -1,6 +1,6 @@
-## Table of Contents
+Hello! Welcome to my page. Here you'll find out a little more about me, my experiences, and my old / current work.
 
-[About Me]
+## Table of Contents
 
 [LinkedIn](https://www.linkedin.com/in/tracy-d-362180129/)
 
