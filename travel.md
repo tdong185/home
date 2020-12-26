@@ -4,4 +4,5 @@
 
 #### Post Graduation 
 
-<img src="travel/IMG_9728.PNG">
+
+<img src="https://github.com/tdong185/home/tree/master/travel/IMG_9728.PNG">
