@@ -1,8 +1,8 @@
-## Welcome to my page
+## Table of Contents
 
 [About Me]
 
-[LinkedIn](https://www.linkedin.com/in/tracy-d-362180129/).
+[LinkedIn](https://www.linkedin.com/in/tracy-d-362180129/)
 
 [Resume](https://tdong185.github.io/home/resume)
 
