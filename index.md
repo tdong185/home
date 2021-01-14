@@ -6,8 +6,14 @@ Hello! Welcome to my page. Here you'll find out a little more about me, my exper
 
 [Resume](https://tdong185.github.io/home/resume)
 
+[Data Structures](https://tdong185.github.io/home/data_structures)
+
+[Computer Systems Organization]
+
 [Basic Algorithms]
 
-[Data Structures]
+[Parallel Computing]
+
+[Operating Systems
 
 [Travel](https://tdong185.github.io/home/travel)
