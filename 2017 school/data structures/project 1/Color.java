@@ -3,7 +3,6 @@ package project1;
 /**
  * This class contains represents a color and its hexvalue, RGB code, and name if provided
  * 
- * @author tracydong
  * @version 09/19/2017
  */
 
