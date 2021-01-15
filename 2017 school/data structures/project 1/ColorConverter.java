@@ -7,7 +7,6 @@ import java.util.Scanner;
  * This class contains the main method. It inputs the file from which the colorList object is created and 
  * asks for user input that specifies the hexvalue of a color 
  * 
- * @author tracydong
  * @version 09/11/2017
  */
 
