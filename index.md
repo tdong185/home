@@ -10,7 +10,7 @@ Hello! Welcome to my page. Here you'll find out a little more about me, my exper
 
 [Computer Systems Organization](https://tdong185.github.io/home/cso)
 
-[Basic Algorithms]
+[Basic Algorithms](https://tdong185.github.io/home/Basic Algo)
 
 [Parallel Computing]
 
