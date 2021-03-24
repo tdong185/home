@@ -8,7 +8,7 @@ Hello! Welcome to my page. Here you'll find out a little more about me, my exper
 
 [Data Structures](https://tdong185.github.io/home/data_structures)
 
-[Computer Systems Organization]
+[Computer Systems Organization](https://tdong185.github.io/home/cso)
 
 [Basic Algorithms]
 
