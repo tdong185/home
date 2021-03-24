@@ -14,6 +14,6 @@ Hello! Welcome to my page. Here you'll find out a little more about me, my exper
 
 [Parallel Computing](https://tdong185.github.io/home/parallel)
 
-[Operating Systems
+[Operating Systems]((https://tdong185.github.io/home/OS)
 
 [Travel](https://tdong185.github.io/home/travel)
