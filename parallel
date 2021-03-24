@@ -3,5 +3,10 @@ Most of us have learned to program a single microprocessor with single core usin
 How to think in parallel? How to write code in parallel to make the best use of the underlying hardware? How is that new hardware different from the traditional one? What will the future be for the software and hardware? This is what this course is about.
 
 [Lab 1](https://github.com/tdong185/home/blob/master/parallel%20labs/lab1.pdf): solve a group of linear equations using MPI
+  [submission](https://github.com/tdong185/home/blob/master/parallel%20labs/lab%201%20-%20gs.c)
+  
 [Lab 2](https://github.com/tdong185/home/blob/master/parallel%20labs/lab2.pdf): solve a modified version of the traveling salesman problem in OpenMP.
+  [submission](https://github.com/tdong185/home/blob/master/parallel%20labs/lab%202%20-%20genprimes.c)
+
 [Lab 3](https://github.com/tdong185/home/blob/master/parallel%20labs/lab3.pdf): implement a reduction algorithm to find the maximum element of an array of integers.
+  [submission](https://github.com/tdong185/home/blob/master/parallel%20labs/lab%203%20-%20maxgpu.cu)
